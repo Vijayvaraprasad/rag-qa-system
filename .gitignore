@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-workspace
+*.sublime-project
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Generated Data & Cache
+data/chroma_db/
+data/raw_docs/
+*.db
+*.sqlite
+*.sqlite3
+.cache/
+.pytest_cache/
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# OS Files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+*.pot
+
+# Sample Documents (Keep only if educational value)
+sample_document.txt
+Spring Framework Overview.txt
+
+# Generated Documentation & Guides (Keep production docs only)
+00_START_HERE.md
+SIMPLE_FILE_GUIDE.md
+FAQ_QUICK_REFERENCE.md
+FILE_EXPLANATIONS.md
+CODE_WALKTHROUGHS.md
+WORKFLOW_DIAGRAMS.md
+DELIVERABLES.md
+COMPLETE_EXPLANATION.md
+DOCUMENTATION_GUIDE.md
+VIDEO_SCRIPT_COMPLETE.md
+PROJECT_EXPLANATION_VIDEO.md
+
+# Batch Scripts (If testing)
+*.bat
+start_with_groq_new.bat
+
+# Dependencies (if using pip freeze output)
+requirements_frozen.txt
