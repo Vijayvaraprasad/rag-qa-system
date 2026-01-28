@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+chromadb
+PyPDF2
+nltk
+torch
+python-multipart
+openai
+rank-bm25
+requests
+numpy
