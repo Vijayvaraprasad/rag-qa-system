@@ -95,3 +95,6 @@ start_with_groq_new.bat
 
 # Dependencies (if using pip freeze output)
 requirements_frozen.txt
+
+
+echo "*.png" >> .gitignore
