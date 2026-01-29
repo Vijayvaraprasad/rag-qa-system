@@ -97,4 +97,6 @@ start_with_groq_new.bat
 requirements_frozen.txt
 
 
-echo "*.png" >> .gitignore
+*.pyc
+__pycache__/
+*.png  

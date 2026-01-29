@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 title: Rag Ai System
 emoji: 🏆
@@ -10,6 +11,8 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 =======
+=======
+>>>>>>> 99c0e0768c8e0d0e609f25ccb6e62d217c7ca60b
 # 🎊 COMPLETE IMPLEMENTATION - FINAL SUMMARY
 
 ## Status: ✅ ALL 13 ADVANCED FEATURES IMPLEMENTED
@@ -513,4 +516,7 @@ Now go build amazing things! 🚀
 *Fully documented and example-rich*
 
 **Start using it now!**
+<<<<<<< HEAD
 >>>>>>> 99c0e07 (Initial commit :RAG Application with 13 features)
+=======
+>>>>>>> 99c0e0768c8e0d0e609f25ccb6e62d217c7ca60b
